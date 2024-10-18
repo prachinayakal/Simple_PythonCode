@@ -1,6 +1,3 @@
-# Simple_PythonCode
-A Simple Python code to print Hello World!
-
 # Hello World in Python
 
 This is a simple Python program that demonstrates how to print "Hello World!" to the console.
